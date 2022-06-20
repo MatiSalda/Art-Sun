@@ -187,7 +187,7 @@ footer ul li {
     text-align: center;
 }
 .imgInsumos {
-    max-width: 500px;
+    max-width: 80%;
     border-radius: 15px;
     margin: 10px 0 10px 0;
 }
@@ -281,7 +281,7 @@ footer ul li {
     .sectionInsumos {
         margin: 10px 40px;
         background-color: rgb(255, 255, 255);
-        width: 90%;
+        width: 97%;
         height: 95%;
         display: flex;
         justify-content: center;
